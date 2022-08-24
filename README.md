@@ -1,7 +1,9 @@
-Laravel RESTful API
+Laravel RESTful API:
+
 A simple example of how to create a RESTful API in Laravel 8.
 
-Endpoints
+Endpoints:
+
 Get all todo: GET /api/todos
 
 Get a single todo: GET /api/todos/{id}
